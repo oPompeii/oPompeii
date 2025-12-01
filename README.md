@@ -1,4 +1,5 @@
-<img src = "gif.gif" width = "325px" align = "right">
+<img src = "gif.gif" width = "100px" align = "right">
+
 
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui.
 
