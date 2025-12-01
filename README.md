@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "gif.gif" width = "325px" align = "right">
 
 # Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui.
 
@@ -16,15 +16,9 @@
   <a href="https://www.mysql.com/" title="MySQL"><img src="mysql.png" /></a>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img 
-    alt="CSS" 
-    title="CSS"
-    width="35px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-
 </div>
 
 
