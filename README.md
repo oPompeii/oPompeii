@@ -1,26 +1,35 @@
-<img src = "gif.gif" width = "100px" align = "right">
+<a href="https://github.com/oPompeii">
+  <img src="banner.png" alt="Banner" style="width:100%; height:auto"/>
+</a>
 
+# Olá, eu sou o Matheus Pompei! 👋
+**`Software Developer | UI/UX Designer`**
 
-# Seja bem vindo e bem vinda ao meu GitHub! É bom ter você por aqui.
+<div align="justify">
 
-**`Desenvolvedor Front-end e Designer Digital`**
-- 👩‍💻 Aprendendo algo sobre back-end
-  
- <div id="badges">
-  <a href = "https://www.linkedin.com/in/matheus-pompei-8647b0284/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  </div>
-  
+Sou estudante de **Análise e Desenvolvimento de Sistemas** , unindo a lógica de programação à criatividade do design. Meu foco é entregar sistemas completos, funcionais e visualmente impactantes. 
 
----
-<div>
-  <a href="https://www.mysql.com/" title="MySQL"><img src="mysql.png" /></a>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img alt="Rafa-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+Atualmente, transformo ideias em realidade digital, cuidando desde o **prototipagem no Figma** até o **deploy final** em tecnologias modernas como React e React Native.
 </div>
 
+---
 
+### 🛠️ Minha Stack
+
+| **Área** | **Tecnologias** |
+|:------------------|:----------------|
+| **Design / UI/UX**| <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" /> |
+| **Front-end** | <img src="https://skillicons.dev/icons?i=html,css,js,react" /> |
+| **Back-end/DB** | <img src="https://skillicons.dev/icons?i=nodejs,java,supabase,mysql,lua" /> |
+| **Ferramentas** | <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" /> |
+
+---
+
+### 📫 Vamos nos conectar?
+<div id="badges">
+  <a href="https://www.linkedin.com/in/matheus-pompei-8647b0284/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://opompeii.github.io/curriculo/" target="_blank">
+        <img src="https://img.shields.io/badge/Visualizar%20Currículo%20Web-FF5733?style=for-the-badge&logo=react&logoColor=white&labelColor=313131" alt="Currículo Web"/>
+</div>
