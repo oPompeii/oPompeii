@@ -9,7 +9,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** , unindo a lógica de programação à criatividade do design. Meu foco é entregar sistemas completos, funcionais e visualmente impactantes. 
 
-Atualmente, transformo ideias em realidade digital, cuidando desde o **prototipagem no Figma** até o **deploy final** em tecnologias modernas como React e React Native.
+Atualmente, transformo ideias em realidade digital, cuidando desde a **prototipagem no Figma** até o **deploy final** em tecnologias modernas como React e React Native.
 </div>
 
 ---
