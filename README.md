@@ -33,6 +33,6 @@ Atualmente, atuo desde a **prototipagem no Figma** até o **desenvolvimento e de
   <a href="https://www.linkedin.com/in/matheus-pompei-8647b0284/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="matheus-devs.vercel.app" target="_blank">
+  <a href="https://matheus-devs.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Visualizar%20Currículo%20Web-FF5733?style=for-the-badge&logo=react&logoColor=white&labelColor=313131" alt="Currículo Web"/>
 </div>
