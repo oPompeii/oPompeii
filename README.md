@@ -27,14 +27,6 @@ Atualmente, atuo desde a **prototipagem no Figma** até o **desenvolvimento e de
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oPompeii&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oPompeii&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ### 📫 Vamos nos conectar?
 
 <div>
