@@ -26,6 +26,14 @@ Atualmente, atuo desde a **prototipagem no Figma** até o **desenvolvimento e de
 | **Ferramentas**    | <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />    |
 
 ---
+### 📊 GitHub Stats
+
+<p align="left">
+  <!-- <img height="160em" src="https://github-readme-stats.vercel.app/api?username=oPompeii&show_icons=true&theme=tokyonight"/> -->
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=opompeii&layout=compact&custom_title=Tecnologias&langs_count=9&theme=react"/>
+</p>
+
+---
 
 ### 📫 Vamos nos conectar?
 
