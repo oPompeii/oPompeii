@@ -1,5 +1,5 @@
 <a href="https://github.com/oPompeii">
-  <img src="banner.png" alt="Banner" style="width:100%; height:auto"/>
+  <img src="Banner.png" alt="Banner" style="width:100%; height:auto"/>
 </a>
 
 # Olá, eu sou o Matheus Pompei! 👋
