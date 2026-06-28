@@ -4,13 +4,12 @@
 
 # Olá, eu sou o Matheus Pompei! 👋
 
-**`Front-End Developer | UI/UX Designer`**
+**`Back-End Developer`**
 
 <div align="justify">
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** , unindo a lógica de programação à criatividade do design. Meu foco é entregar sistemas completos, funcionais e visualmente impactantes.
-
-Atualmente, atuo desde a **prototipagem no Figma** até o **desenvolvimento e deploy** utilizando tecnologias como React e React Native.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** , unindo a lógica de programação ao design de arquiteturas escaláveis. Meu foco é entregar sistemas robustos, performáticos e confiáveis.
+Atualmente, atuo no desenvolvimento de **APIs REST**, **arquitetura de banco de dados** e **integração de serviços** utilizando tecnologias como Node.js, Express e Java.
 
 </div>
 
@@ -22,7 +21,8 @@ Atualmente, atuo desde a **prototipagem no Figma** até o **desenvolvimento e de
 | :----------------- | :-------------------------------------------------------------------------- |
 | **Design / UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />              |
 | **Front-end**      | <img src="https://skillicons.dev/icons?i=html,css,js,react" />              |
-| **Back-end/DB**    | <img src="https://skillicons.dev/icons?i=nodejs,java,supabase,mysql,lua" /> |
+| **Back-end**       | <img src="https://skillicons.dev/icons?i=nodejs,java,ts,lua" /> |
+| **Banco de Dados** | <img src="https://skillicons.dev/icons?i=supabase,mysql" /> |
 | **Ferramentas**    | <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />    |
 
 ---
