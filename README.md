@@ -19,11 +19,11 @@ Atualmente, atuo no desenvolvimento de **APIs REST**, **arquitetura de banco de 
 
 | **Área**           | **Tecnologias**                                                             |
 | :----------------- | :-------------------------------------------------------------------------- |
-| **Design / UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />              |
-| **Front-end**      | <img src="https://skillicons.dev/icons?i=html,css,js,react" />              |
 | **Back-end**       | <img src="https://skillicons.dev/icons?i=nodejs,java,ts,lua,bots" /> |
+| **Front-end**      | <img src="https://skillicons.dev/icons?i=html,css,js,react" />              |
 | **Banco de Dados** | <img src="https://skillicons.dev/icons?i=supabase,mysql,aws" /> |
 | **Ferramentas**    | <img src="https://skillicons.dev/icons?i=github,vscode,androidstudio" />    |
+| **Design / UI/UX** | <img src="https://skillicons.dev/icons?i=figma,ps,ai,ae,pr" />              |
 
 ---
 ### 📊 GitHub Stats
